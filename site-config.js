@@ -4,20 +4,20 @@
    Painel administrativo (futuro): basta gerar este mesmo objeto a partir de uma
    API ou arquivo JSON; o site só lê window.SITE_CONFIG. */
 window.SITE_CONFIG = {
-  // WhatsApp: país + DDD + número, só dígitos. Ex.: "5535999999999"
+  // WhatsApp: (35)99896-5504, só dígitos. Ex.: "5535999999999"
   whatsapp: "",
 
   // Mensagem que já vem escrita quando a pessoa abre o WhatsApp
   mensagemWhatsapp: "Olá! Vim pelo site da Rita Ribeiro Estética e gostaria de agendar um horário.",
 
-  // Instagram: apenas o usuário, sem @ e sem link. Ex.: "usuario"
+  // Instagram: @hp_automotivo, sem @ e sem link. Ex.: "usuario"
   instagram: "",
 
   // Endereço completo (também usado no mapa). Ex.: "Rua X, 123, Bairro, São Sebastião do Paraíso - MG"
-  endereco: "",
+  endereco: Av. Monsenhor Mancini, 203 - Santa Tereza, São Sebastião do Paraíso - MG, 37950-000
 
   // Funcionamento, em texto livre. Ex.: "Segunda a sexta, das 9h às 18h"
-  horario: "",
+  horario: "", de segunda a sabado (segunda a sexta das 07:00am as 20:00pm) sabado das 08:00am as 17:00pm
 
   // Foto real do espaço para a primeira dobra. Ex.: "espaco.jpg"
   fotoHero: "",
