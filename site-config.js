@@ -14,7 +14,7 @@ window.SITE_CONFIG = {
   instagram:  "ritaribeiro.estetica"
 
   // Endereço completo (também usado no mapa). Ex.: "Rua X, 123, Bairro, São Sebastião do Paraíso - MG"
-  endereco: Av. Monsenhor Mancini, 203 - Santa Tereza, São Sebastião do Paraíso - MG, 37950-000
+  endereco: "Av. Monsenhor Mancini, 203 - Santa Tereza, São Sebastião do Paraíso - MG, 37950-000"
 
   // Funcionamento, em texto livre. Ex.: "Segunda a sexta, das 9h às 18h"
   horario: "de segunda a sabado segunda a sexta das 07:00am as 20:00pm sabado das 08:00am as 17:00pm"
